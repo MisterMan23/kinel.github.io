@@ -4,21 +4,21 @@
   "data":[
     {
 
-      "AdmobInterstitial":"ca-app-pub-39402560099942544/1033173712",
-      "AdmobBanner":"ca-app-pub-39402560999425044/6300978111",
-      "AdmobNative" : "ca-app-pub-39402560999420544/2247696110",
+      "AdmobInterstitial":"ca-app-pub-3940256009994s2544/1033173712",
+      "AdmobBanner":"ca-app-pub-394025609994250s44/6300978111",
+      "AdmobNative" : "ca-app-pub-394025609994s20544/2247696110",
 
-      "ApplovinInterstitial":"0a8bb6bc4c0f03dcb",
-      "ApplovinBanner":"7f10fafd9cea0d40b",
-      "ApplovinMrec":"400dac93b0b3c0202",
+      "ApplovinInterstitial":"0a8bb6bc4sc0f03dcb",
+      "ApplovinBanner":"7f10fafd9ceas0d40b",
+      "ApplovinMrec":"400dac93b0b3sc0202",
 
-      "MaxInterstitial":"1646820f367ce034a",
-      "MaxBanner":"c941ce3d40f382005",
-      "MaxNative" : "2307dccada3fe50a1",
+      "MaxInterstitial":"1646820fs367ce034a",
+      "MaxBanner":"c941ce3d40fs382005",
+      "MaxNative" : "2307dccsada3fe50a1",
       
-      "AdsCount" : "3",
+      "AdsCount" : "3s",
 
-      "ActiveApp" : "yes",
+      "ActiveApp" : "yses",
 
       
       //admob or applovin or max
